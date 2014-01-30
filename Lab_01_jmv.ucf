@@ -1,0 +1,25 @@
+#NET "A" LOC = "K18";
+#NET "B" LOC = "H18";
+#NET "C" LOC = "G18";
+
+#NET "X" LOC = "K15";
+#NET "Y" LOC = "J15";
+#NET "Z" LOC = "J14";
+
+NET Eight_BitIN<0> LOC = "G18";
+NET Eight_BitIN<1> LOC = "H18";
+NET Eight_BitIN<2> LOC = "K18";
+NET Eight_BitIN<3> LOC = "K17";
+NET Eight_BitIN<4> LOC = "L14";
+NET Eight_BitIN<5> LOC = "L13";
+NET Eight_BitIN<6> LOC = "N17";
+NET Eight_BitIN<7> LOC = "R17";
+
+NET Eight_BitOUT<0> LOC = "J14";
+NET Eight_BitOUT<1> LOC = "J15";
+NET Eight_BitOUT<2> LOC = "K15";
+NET Eight_BitOUT<3> LOC = "K14";
+NET Eight_BitOUT<4> LOC = "E17";
+NET Eight_BitOUT<5> LOC = "P15";
+NET Eight_BitOUT<6> LOC = "F4";
+NET Eight_BitOUT<7> LOC = "R4";
