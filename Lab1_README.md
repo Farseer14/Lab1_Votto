@@ -10,10 +10,11 @@ Code has been tested for 3 and 8 bits by Dr. Neebel.
 
 
 
-Testbench
-![Waveform outlines the twos compliment of each portion of the cuircuit as predicted by the truth table. Green space represents a 1 where a green line is representitive of a 0.](https://github.com/Farseer14/Lab1_Votto/blob/master/TestbenchOutput.JPG);
+Testbench Screenshot
+![Testbench Screenshot](https://github.com/Farseer14/Lab1_Votto/blob/master/TestbenchOutput.JPG);
+Waveform outlines the twos compliment of each portion of the cuircuit as predicted by the truth table. Green space represents a 1 where a green line is representitive of a 0.
 
-Pre-Work
+Truth Table, SOP, and Karnaugh Maps
 ![Excel Diagrams](https://github.com/Farseer14/Lab1_Votto/blob/master/TruthTable_Karnaugh.xlsx);
 
 Circuit Structure
